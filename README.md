@@ -11,6 +11,8 @@
       - Process monitor (htop-like) and system logs
       - Color-coded prompts, ASCII borders, loading animations
 
+ This project was created with the assistance of AI (OpenAI GPT-5 mini), which helped with adding logos to the system as part of an experimental retro operating system simulation.
+ 
   Version:
     VireonOS Beta - Kernel Beta
     Phase: Beta (Not for production)
