@@ -16,10 +16,6 @@
     Phase: Beta (Not for production)
     Developed for: Dev-C++ 5.11 (C++98 compatible)
 
-  Origin:
-    This project was generated with the assistance of AI (OpenAI GPT-5 mini) 
-    as an experimental simulation of a retro operating system.
-
   Disclaimer:
     This is a demo project for educational and entertainment purposes only.
 
